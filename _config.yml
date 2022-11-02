@@ -201,7 +201,7 @@ links:
      # TIKTOK
   - Name: TikTok
     URL: https://www.tiktok.com
-    Username: @daddyfaeplays
+    Username: '@daddyfaeplays'
     Color: '#FE2C55'
     Icon-Class: fab fa-tiktok
 
@@ -237,7 +237,7 @@ links:
     # Text_Color: '#000000'
 
     # CUSTOM LINK
-  - Name: Text Me @ 260-226-3345
+  - Name: 'Text Me @ 260-226-3345'
     URL: 'https://tel:2602263348'
     Icon-Class: fas fa-mobile
     Color: '#ffb142'
