@@ -24,6 +24,7 @@ links:
     Username: Lukedaley
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
+    PasswordProtected: NO
 
     # # INSTAGRAM
   # - Name: Instagram
@@ -52,6 +53,7 @@ links:
     Username: luke-daley-18964911
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
+    PasswordProtected: NO
 
     # YOUTUBE
   - Name: YouTube
@@ -59,6 +61,7 @@ links:
     Username: UCAFi0z8NjM6Y_fqHsPnwSZg
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
+    PasswordProtected: NO
 
     # # GITHUB
   # - Name: GitHub
@@ -73,6 +76,7 @@ links:
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
+    PasswordProtected: NO
 
     # TWITCH
   - Name: Twitch
@@ -81,6 +85,7 @@ links:
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
+    PasswordProtected: NO
 
     # # VIMEO
   # - Name: Vimeo
@@ -96,6 +101,7 @@ links:
     Username: lukedaley
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
+    PasswordProtected: NO
 
     # REDDIT
   - Name: Reddit
@@ -103,6 +109,7 @@ links:
     Username: lukejd83
     Color: '#FF4500'
     Icon-Class: fab fa-reddit-alien
+    PasswordProtected: NO
 
   #   # WHATSAPP
   # - Name: WhatsApp
@@ -125,6 +132,7 @@ links:
     Color: '#FFFC00'
     Text_Color: '#000000'
     Icon-Class: fab fa-snapchat-ghost
+    PasswordProtected: NO
 
     # STEAM
   - Name: Steam
@@ -133,6 +141,7 @@ links:
     Color: '#66c0f4'
     Text_Color: '#000000'
     Icon-Class: fab fa-steam
+    PasswordProtected: NO
 
     # DISCORD
   - Name: Discord
@@ -141,6 +150,7 @@ links:
     Icon-Class: fab fa-discord
     Color: '#5865F2'
     Text_Color: '#ffffff'
+    PasswordProtected: NO
 
     # # DISCORD
   # - Name: Discord
@@ -193,6 +203,7 @@ links:
     Username: lukejd83?si=0ea487257d2c43dd
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
+    PasswordProtected: NO
 
     # # SOUNDCLOUD
   # - Name: SoundCloud
@@ -207,6 +218,7 @@ links:
     Username: '@daddyfaeplays'
     Color: '#FE2C55'
     Icon-Class: fab fa-tiktok
+    PasswordProtected: NO
 
     # # MEDIUM
   # - Name: Medium
@@ -245,6 +257,7 @@ links:
     Icon-Class: fas fa-mobile
     Color: '#ffb142'
     Text_Color: '#ffffff'
+    PasswordProtected: NO
     
     # TIKTOK
   - Name: FetLife
