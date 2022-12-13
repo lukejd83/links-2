@@ -4,11 +4,11 @@
 
 {% if link.Password-Protected %}
 
-    <div id = "action"> 
+    <div id = "action" class="flex"> 
         <form>
-          <label class = "mx-1.5 align-middle" for="Password"><i class="fab fa-pepper-hot align-middle"></i> Password</label>
-          <input type="text" id="pass" name="pass" placeholder="Your password...">
-          <input type="submit" value="Submit" id = "loginto" onclick="reee()">
+          <span class = "mx-1.5 align-middle"><i class="fab fa-pepper-hot align-middle"></i> Password</span>
+          <input class="links lg:m-5 md:5 sm:3.5 text-white hover:opacity-75 font-semibold my-2.5 mx-5 px-5 py-1.5 rounded-md w-full place-content-center h-14 w-32"type="text" id="pass" name="pass" placeholder="Your password...">
+          <button id = "loginto" onclick="reee()">Submit</button>
           <p class = "wrong" id = "status"></p> 
         </form>
     </div>
