@@ -38,9 +38,9 @@ layout: compress
                     class="underline font-semibold" href="https://harsh98trivedi.github.io">Luke</a></div>{% endif %}
 			{% if site.Password %}
 			<script>
-				var usernames = [ //This is the place to store usernames and passwords. I know it's a terrible security flaw.
+				var usernames = [
 					{password: '{{site.Password}}'},
-					];
+					]; //This is the place to store usernames and passwords. I know it's a terrible security flaw.
 
 				function reee() {
 				  var pass = document.getElementById("pass").value; //Get pass in put from form field
