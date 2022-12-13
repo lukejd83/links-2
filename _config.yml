@@ -10,6 +10,9 @@ Image_URL: https://raw.githubusercontent.com/lukejd83/links-2/main/images/luke-l
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://raw.githubusercontent.com/lukejd83/links-2/main/images/bg_image.jpg
 
+# SPICY PASSWORD
+Password: kink
+
 # SOCIAL MEDIA
 links:
 
@@ -242,6 +245,14 @@ links:
     Icon-Class: fas fa-mobile
     Color: '#ffb142'
     Text_Color: '#ffffff'
+    
+    # TIKTOK
+  - Name: FetLife
+    URL: https://www.tiktok.com
+    Username: '@daddyfaeplays'
+    Color: '#FE2C55'
+    Icon-Class: fab fa-tiktok
+    PasswordProtected: YES
 
   # - Name: Links
     # URL: https://github.com/harsh98trivedi/links
