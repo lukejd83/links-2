@@ -42,18 +42,18 @@ layout: compress
 					{password: '{{site.Password}}'},
 					]; //This is the place to store usernames and passwords. I know it's a terrible security flaw.
 
-				function reee() {
-				  var pass = document.getElementById("pass").value; //Get pass in put from form field
-				  
-				  for (var i = 0; i < usernames.length; i++){ // Looping. To check every single data in usernames array above
-					if(pass != usernames[i].password) { // Check if input is not equal to the usernames list
-					  document.getElementById("status").innerHTML = "The password is incorrect"; //Display wrong message
-					} else {
-					    var obj = document.getElementById("hidden");
-						var objb = document.getElementById("action");
-   						obj.style.removeProperty("display");
-   						objb.style.display = 'none';
-					  break; //To stop checking. Because username has already been found
+				function reee(event) {
+					event.preventDefault();
+					var pass = document.getElementById("pass").value; //Get pass in put from form field
+					for (var i = 0; i < usernames.length; i++){ // Looping. To check every single data in usernames array above
+						if(pass != usernames[i].password) { // Check if input is not equal to the usernames list
+							document.getElementById("status").innerHTML = "The password is incorrect"; //Display wrong message
+						} else {
+					   		var obj = document.getElementById("hidden");
+							var objb = document.getElementById("action");
+   							obj.style.removeProperty("display");
+   							objb.style.display = 'none';
+						break; //To stop checking. Because username has already been found
 					}
 				  }
 				}
