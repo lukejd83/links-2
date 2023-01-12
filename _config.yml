@@ -47,21 +47,21 @@ links:
     # Color: '#f1c40f'
     # Icon-Class: fas fa-hand-paper -mt-0.5
     
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: luke-daley-18964911
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
-    Password-Protected: NO
+    # # LINKEDIN
+  # - Name: LinkedIn
+    # URL: https://www.linkedin.com/in
+    # Username: luke-daley-18964911
+    # Color: '#2867B2'
+    # Icon-Class: fab fa-linkedin-in
+    # Password-Protected: NO
 
-    # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCAFi0z8NjM6Y_fqHsPnwSZg
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-    Password-Protected: NO
+    # # YOUTUBE
+  # - Name: YouTube
+    # URL: https://www.youtube.com/channel
+    # Username: UCAFi0z8NjM6Y_fqHsPnwSZg
+    # Color: '#ff0000'
+    # Icon-Class: fab fa-youtube
+    # Password-Protected: NO
 
     # # GITHUB
   # - Name: GitHub
@@ -103,13 +103,13 @@ links:
     Icon-Class: fab fa-facebook-messenger
     Password-Protected: NO
 
-    # REDDIT
-  - Name: Reddit
-    URL: http://reddit.com/u
-    Username: lukejd83
-    Color: '#FF4500'
-    Icon-Class: fab fa-reddit-alien
-    Password-Protected: NO
+    # # REDDIT
+  # - Name: Reddit
+    # URL: http://reddit.com/u
+    # Username: lukejd83
+    # Color: '#FF4500'
+    # Icon-Class: fab fa-reddit-alien
+    # Password-Protected: NO
 
   #   # WHATSAPP
   # - Name: WhatsApp
@@ -197,13 +197,13 @@ links:
     # Color: '#ff2865'
     # Text_Color: '#ffffff'
 
-    # SPOTIFY
-  - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: lukejd83?si=0ea487257d2c43dd
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
-    Password-Protected: NO
+    # # SPOTIFY
+  # - Name: Spotify
+    # URL: http://open.spotify.com/user
+    # Username: lukejd83?si=0ea487257d2c43dd
+    # Color: '#1DB954'
+    # Icon-Class: fab fa-spotify
+    # Password-Protected: NO
 
     # # SOUNDCLOUD
   # - Name: SoundCloud
