@@ -259,13 +259,13 @@ links:
     Text_Color: '#ffffff'
     Password-Protected: NO
     
-    # TIKTOK
-  - Name: FetLife
-    URL: https://www.tiktok.com
-    Username: '@daddyfaeplays'
-    Color: '#FE2C55'
-    Icon-Class: fab fa-tiktok
-    Password-Protected: YES
+    # # TIKTOK
+  # - Name: FetLife
+    # URL: https://www.tiktok.com
+    # Username: '@daddyfaeplays'
+    # Color: '#FE2C55'
+    # Icon-Class: fab fa-tiktok
+    # Password-Protected: YES
 
   # - Name: Links
     # URL: https://github.com/harsh98trivedi/links
